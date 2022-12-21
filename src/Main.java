@@ -11,7 +11,16 @@ public class Main {
         suns.color="Yellow";
         suns.size="7886858";
         suns.temp="-97979";
-        System.out.println("Hello world!");
+
+
+        Planet1 juju=new Planet1();
+        juju.rings="3";
+        juju.temperature="7381231263812K";
+        juju.size=786685;
+        juju.color="Orange";
+        
+
+        System.out.println("Hello world");
 
 
 
