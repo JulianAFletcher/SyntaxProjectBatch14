@@ -13,7 +13,10 @@ public class Main {
         suns.temp="-97979";
         System.out.println("Hello world!");
 
-
-
+Planet2 X2=new Planet2();
+X2.color="red";
+X2.rings="4";
+X2.size=745345345;
+X2.temperature="57545365365k";
     }
 }
